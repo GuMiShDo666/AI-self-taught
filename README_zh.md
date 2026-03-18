@@ -17,3 +17,5 @@
 - 神经网络实现
 - NLP / Transformer 练习
 - 小项目、Notebook 和测试脚本
+- langchain/langgragh的学习
+- Agent
